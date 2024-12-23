@@ -1,0 +1,14 @@
+django-bootstrap5==24.3
+
+#hottreck app
+requests==2.32.3
+pillow==11.0.0
+pandas==2.2.3
+django-debug-toolbar==4.4.6
+django-extensions==3.2.3
+#mysql
+#pymysql==1.1.1
+#cryptography==44.0.0
+
+#postgressql
+psycopg2-binary==2.9.10
